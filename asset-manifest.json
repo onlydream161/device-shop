@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/device-shop/static/css/main.ea313c65.css",
+    "main.js": "/device-shop/static/js/main.bf27d073.js",
+    "static/media/favourite.png": "/device-shop/static/media/favourite.069cbe6ba69ee45c63d7.png",
+    "index.html": "/device-shop/index.html",
+    "main.ea313c65.css.map": "/device-shop/static/css/main.ea313c65.css.map",
+    "main.bf27d073.js.map": "/device-shop/static/js/main.bf27d073.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea313c65.css",
+    "static/js/main.bf27d073.js"
+  ]
+}
